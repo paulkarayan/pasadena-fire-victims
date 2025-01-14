@@ -1,0 +1,4 @@
+baseURL = 'https://www.pasadenafirevictims.org/'
+languageCode = 'en-us'
+title = 'Pasadena Area Fire Victims who I know need help'
+theme = 'lightbi-hugo'

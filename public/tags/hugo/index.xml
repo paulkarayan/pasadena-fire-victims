@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Pasadena Area Fire Victims who I know need help</title>
+    <link>http://localhost:50427/tags/hugo/</link>
+    <description>Recent content in Hugo on Pasadena Area Fire Victims who I know need help</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:50427/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to use Lightbi theme ?</title>
+      <link>http://localhost:50427/content/post/2025/use-this-theme/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50427/content/post/2025/use-this-theme/</guid>
+      <description>In this post, we&amp;rsquo;ll cover how to install Hugo and set up your first website with the Lightbi theme. For detailed steps, refer to Hugo’s quick-start guide.&#xA;Create a New Hugo Site hugo new site &amp;lt;name of site&amp;gt; cd &amp;lt;name of site&amp;gt; git init git submodule add https://github.com/binokochumolvarghese/lightbi-hugo themes/lightbi-hugo After completing the steps above, copy the contents of exampleSite/contents into the content folder of your website.&#xA;Next, copy hugo.toml to the root folder of the website.</description>
+    </item>
+    <item>
+      <title>Hosting Your Hugo Site on Netlify</title>
+      <link>http://localhost:50427/content/post/2025/netlify-configuration/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50427/content/post/2025/netlify-configuration/</guid>
+      <description>Hosting a Hugo site on Netlify is an effective solution for deploying static websites, combining Hugo’s speed with Netlify’s robust features like continuous deployment, a user-friendly dashboard, and advanced build settings.&#xA;Why Use Netlify? Netlify is popular for its ease of use, free hosting tier, and powerful features like automated builds, custom domain support, and built-in SSL. With Hugo’s efficient static site generation, deploying on Netlify enables fast, seamless updates and management.</description>
+    </item>
+    <item>
+      <title>Parameters in Lightbi</title>
+      <link>http://localhost:50427/content/post/2025/parameters/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50427/content/post/2025/parameters/</guid>
+      <description>Below is a list of configurable parameters in the Lightbi theme, along with descriptions to help you customize your site effectively. You can be adjust the below parameters in your hugo.toml file.&#xA;Theme Parameters readingTime&#xA;Type: Boolean (true or false) Description: When set to true, displays an estimated reading time for each post. This helps readers gauge how long it will take to read the content. wordCount&#xA;Type: Boolean Description: Enables or disables the word count display for each post.</description>
+    </item>
+  </channel>
+</rss>
