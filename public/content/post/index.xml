@@ -1,75 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pasadena Area Fire Victims who I know need help</title>
-    <link>http://localhost:50427/content/post/</link>
-    <description>Recent content on Pasadena Area Fire Victims who I know need help</description>
+    <title>Pasadena Area Fire Victims</title>
+    <link>http://localhost:1313/content/post/</link>
+    <description>Recent content on Pasadena Area Fire Victims</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:50427/content/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/content/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coach Rick and Lisa and their family</title>
-      <link>http://localhost:50427/content/post/2025/more-about-lightbi/</link>
+      <link>http://localhost:1313/content/post/2025/more-about-lightbi/</link>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50427/content/post/2025/more-about-lightbi/</guid>
+      <guid>http://localhost:1313/content/post/2025/more-about-lightbi/</guid>
       <description>Coach Caragher let me run on the cross country team one summer and was a great teacher of those who later became productive adults. His wife Lisa was also my PE coach as a kid and recently retired. They could use our help!&#xA;https://www.gofundme.com/f/aid-lisa-and-rick-after-fire-loss</description>
     </item>
     <item>
       <title>Megan and her family</title>
-      <link>http://localhost:50427/content/post/2025/megan/</link>
+      <link>http://localhost:1313/content/post/2025/megan/</link>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50427/content/post/2025/megan/</guid>
+      <guid>http://localhost:1313/content/post/2025/megan/</guid>
       <description>Please help my friend Megan, her husband JR, and their kids.&#xA;Megan was one of the first people I met at Poly and was always kind - and her mother is one of the coolest &amp;ldquo;tell is like it is&amp;rdquo; people. JR has always been a solid dude, as well.&#xA;Please help them when they need it most!&#xA;https://www.gofundme.com/f/join-us-in-rebuilding-after-devastation</description>
     </item>
     <item>
-      <title>How to use Lightbi theme ?</title>
-      <link>http://localhost:50427/content/post/2025/use-this-theme/</link>
-      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50427/content/post/2025/use-this-theme/</guid>
-      <description>In this post, we&amp;rsquo;ll cover how to install Hugo and set up your first website with the Lightbi theme. For detailed steps, refer to Hugo’s quick-start guide.&#xA;Create a New Hugo Site hugo new site &amp;lt;name of site&amp;gt; cd &amp;lt;name of site&amp;gt; git init git submodule add https://github.com/binokochumolvarghese/lightbi-hugo themes/lightbi-hugo After completing the steps above, copy the contents of exampleSite/contents into the content folder of your website.&#xA;Next, copy hugo.toml to the root folder of the website.</description>
-    </item>
-    <item>
-      <title>Understanding Hugo Shortcodes</title>
-      <link>http://localhost:50427/content/post/2025/understanding-hugo-shortcodes/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50427/content/post/2025/understanding-hugo-shortcodes/</guid>
-      <description>Hugo shortcodes are powerful tools for adding custom HTML or other special content within Markdown files without complex code. They enable enhanced flexibility and are a core part of Hugo&amp;rsquo;s functionality, offering reusable snippets for embedding media, custom components, or dynamic content. Below, we’ll explore what shortcodes are and highlight some popular examples.&#xA;What are Hugo Shortcodes? Shortcodes in Hugo are like mini-templates that simplify embedding specialized content into a page.</description>
-    </item>
-    <item>
-      <title>Hosting Your Hugo Site on Netlify</title>
-      <link>http://localhost:50427/content/post/2025/netlify-configuration/</link>
-      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50427/content/post/2025/netlify-configuration/</guid>
-      <description>Hosting a Hugo site on Netlify is an effective solution for deploying static websites, combining Hugo’s speed with Netlify’s robust features like continuous deployment, a user-friendly dashboard, and advanced build settings.&#xA;Why Use Netlify? Netlify is popular for its ease of use, free hosting tier, and powerful features like automated builds, custom domain support, and built-in SSL. With Hugo’s efficient static site generation, deploying on Netlify enables fast, seamless updates and management.</description>
-    </item>
-    <item>
-      <title>Parameters in Lightbi</title>
-      <link>http://localhost:50427/content/post/2025/parameters/</link>
-      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50427/content/post/2025/parameters/</guid>
-      <description>Below is a list of configurable parameters in the Lightbi theme, along with descriptions to help you customize your site effectively. You can be adjust the below parameters in your hugo.toml file.&#xA;Theme Parameters readingTime&#xA;Type: Boolean (true or false) Description: When set to true, displays an estimated reading time for each post. This helps readers gauge how long it will take to read the content. wordCount&#xA;Type: Boolean Description: Enables or disables the word count display for each post.</description>
-    </item>
-    <item>
-      <title>What is Markdown ?</title>
-      <link>http://localhost:50427/content/post/2025/markdown/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50427/content/post/2025/markdown/</guid>
-      <description>What is Markdown? Markdown is a lightweight, plain-text formatting language used for creating styled text through simple, readable syntax. Developed by John Gruber in 2004, its goal is to allow writers to format documents without complex code, making it easy to read and edit. The beauty of Markdown lies in its simplicity, allowing creators to add headings, lists, images, links, and more by typing a few symbols around their text.</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:50427/content/post/2025/syntax/</link>
-      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50427/content/post/2025/syntax/</guid>
-      <description>Headings To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (h3), use three number signs (e.g., ### My Header). Heading level 1 Heading level 2 Heading level 3 Heading level 4 Heading level 5 Heading level 6 Paragraphs To create paragraphs, use a blank line to separate one or more lines of text.</description>
-    </item>
-    <item>
       <title>Who am I ?!</title>
-      <link>http://localhost:50427/content/post/2025/who-am-i/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50427/content/post/2025/who-am-i/</guid>
-      <description>Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found.&#xA;As a child, the answer to this question was simple. Say my name to the question of who. Aha ..! Simple and beautiful. In that answer, parents and siblings in adolescence. I thought to myself that the answer was too clear.&#xA;When I started asking myself this question at a young age when I was beginning to recognize many things, I began to feel that the answer was becoming less clear.</description>
+      <link>http://localhost:1313/content/post/2025/who-am-i/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/content/post/2025/who-am-i/</guid>
+      <description>I grew up in the Pasadena area and have watched with horror as the fire threatened and destroyed my childhood stomping grounds. We&amp;rsquo;ve been passing around GoFundMe links and news over text messages and this just seems like a better way to collect them in one place.&#xA;you can confirm I am a real person if you&amp;rsquo;d like but here&amp;rsquo;s a start.&#xA;www.paulkarayan.com paulkarayan@gmail.com please do help my friends. they need it now.</description>
     </item>
   </channel>
 </rss>
