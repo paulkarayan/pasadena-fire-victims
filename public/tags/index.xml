@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pasadena Area Fire Victims</title>
-    <link>https://www.pasadenafirevictims.org/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Pasadena Area Fire Victims</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.pasadenafirevictims.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gofundme</title>
-      <link>https://www.pasadenafirevictims.org/tags/gofundme/</link>
+      <link>http://localhost:1313/tags/gofundme/</link>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.pasadenafirevictims.org/tags/gofundme/</guid>
+      <guid>http://localhost:1313/tags/gofundme/</guid>
       <description></description>
     </item>
     <item>
       <title>Stoicism</title>
-      <link>https://www.pasadenafirevictims.org/tags/stoicism/</link>
+      <link>http://localhost:1313/tags/stoicism/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.pasadenafirevictims.org/tags/stoicism/</guid>
+      <guid>http://localhost:1313/tags/stoicism/</guid>
       <description></description>
     </item>
   </channel>

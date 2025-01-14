@@ -1,9 +1,9 @@
 ---
-title: Who am I ?!
+title: Who and why
 date: 2025-01-01
 tags: ["stoicism"]
-image : "/img/posts/pk.jpg"
-Description  : "Who is behind this"
+image : "/images/pk.jpg"
+Description  : "Who and why this site"
 ---
 
 I grew up in the Pasadena area and have watched with horror as the fire threatened and destroyed

@@ -2,7 +2,7 @@
 title: Coach Rick and Lisa and their family
 date: 2025-01-14
 tags: ["gofundme"]
-image: "/images/rick.png"
+image: "/images/rick.webp"
 Description: ""
 featured: true
 ---
