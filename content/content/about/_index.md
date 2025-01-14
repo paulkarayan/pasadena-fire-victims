@@ -3,18 +3,14 @@ type : "tags"
 layout : "about"
 title: "About me"
 ---
+I grew up in the Pasadena area and have watched with horror as the fire threatened and destroyed
+my childhood stomping grounds. We've been passing around GoFundMe links and news over text messages
+and this just seems like a better way to collect them in one place.
 
-I am Bino Kochumol Varghese.
+you can confirm I am a real person if you'd like but here's a start.
+```
+www.paulkarayan.com
+paulkarayan@gmail.com
+```
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-
-##### Social Media
-- [Instagram](https://www.instagram.com/binovarghese_)
-- [Twitter](https://twitter.com/binovarghese_)
-- [Linkedin](https://linkedin.com/in/binovarghese-)
- 
-
+please do help my friends. they need it now. 
