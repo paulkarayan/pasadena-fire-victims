@@ -1,6 +1,6 @@
 ---
 title: Help Uncle Steve After Altadena Fire
-date: 2025-01-14
+date: 2025-01-13
 tags: ["gofundme"]
 image: ""
 description: ""

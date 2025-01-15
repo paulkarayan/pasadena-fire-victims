@@ -1,6 +1,6 @@
 ---
 title: Help Ai Buangsuwon Rebuild After Eaton Fire
-date: 2025-01-14
+date: 2025-01-13
 tags: ["gofundme"]
 image: ""
 description: ""

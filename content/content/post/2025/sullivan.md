@@ -1,6 +1,6 @@
 ---
 title: Help Rebuild the Sullivan's Home and RRA
-date: 2025-01-14
+date: 2025-01-13
 tags: ["gofundme"]
 image: ""
 description: ""

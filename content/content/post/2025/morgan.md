@@ -1,6 +1,6 @@
 ---
 title: Help Kenny and Morgan Rebuild After Fire
-date: 2025-01-14
+date: 2025-01-13
 tags: ["gofundme"]
 image: ""
 description: ""
