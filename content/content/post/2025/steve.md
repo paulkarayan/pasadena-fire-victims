@@ -1,0 +1,14 @@
+---
+title: Help Uncle Steve After Altadena Fire
+date: 2025-01-14
+tags: ["gofundme"]
+image: ""
+description: ""
+featured: true
+---
+
+Uncle Steve has lost everything due to the Altadena Fire. Your generosity can provide much-needed relief.
+
+[Support Uncle Steve](https://www.gofundme.com/f/help-uncle-steve-altadena-fire)
+
+---
