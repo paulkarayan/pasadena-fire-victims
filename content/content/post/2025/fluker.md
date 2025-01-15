@@ -1,8 +1,8 @@
 ---
-title: Help the Fluker Family After Fire
+title: Help the Fluker Family (their kids + foster children) After Fire
 date: 2025-01-14
 tags: ["gofundme"]
-image: ""
+image: "/images/fluker.webp"
 description: ""
 featured: true
 ---

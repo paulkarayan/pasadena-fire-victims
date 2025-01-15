@@ -2,7 +2,7 @@
 title: Help Kaitlin's uncle
 date: 2025-01-14
 tags: ["gofundme"]
-image: ""
+image: "/images/jaylin.webp"
 description: ""
 featured: true
 ---
