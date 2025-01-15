@@ -4,7 +4,7 @@ date: 2025-01-14
 tags: ["gofundme"]
 image: ""
 description: ""
-featured: true
+featured: false
 ---
 
 Jake's family has experienced a devastating loss due to the Eaton Blaze. Your support can help them rebuild and recover during this challenging time.

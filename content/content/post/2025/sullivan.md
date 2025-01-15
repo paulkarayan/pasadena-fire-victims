@@ -4,7 +4,7 @@ date: 2025-01-14
 tags: ["gofundme"]
 image: ""
 description: ""
-featured: true
+featured: false
 ---
 
 The Sullivan family and their business, RRA, were devastated by a fire. Please contribute to help them rebuild.

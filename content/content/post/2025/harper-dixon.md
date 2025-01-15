@@ -4,7 +4,7 @@ date: 2025-01-14
 tags: ["gofundme"]
 image: ""
 description: ""
-featured: true
+featured: false
 ---
 
 Two families, the Harpers and the Dixons, are grappling with the loss of their homes to fire. Your donation can make a meaningful difference.

@@ -4,7 +4,7 @@ date: 2025-01-14
 tags: ["gofundme"]
 image: ""
 description: ""
-featured: true
+featured: false
 ---
 
 Julie, Kayla, and David are recovering from the Altadena Eaton Fire. Please consider donating to help them through this recovery journey.

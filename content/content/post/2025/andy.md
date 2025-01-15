@@ -4,7 +4,7 @@ date: 2025-01-14
 tags: ["gofundme"]
 image: ""
 description: ""
-featured: true
+featured: false
 ---
 
 Andy, Lacey, Henry, and Louie need support after the Eaton Fire. This fundraiser will help them recover and rebuild.

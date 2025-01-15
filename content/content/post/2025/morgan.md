@@ -4,7 +4,7 @@ date: 2025-01-14
 tags: ["gofundme"]
 image: ""
 description: ""
-featured: true
+featured: false
 ---
 
 Kenny and Morgan have lost their home to a devastating fire and are facing the challenge of rebuilding from scratch. This GoFundMe page aims to support their recovery and help them regain stability.

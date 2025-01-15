@@ -4,7 +4,7 @@ date: 2025-01-14
 tags: ["gofundme"]
 image: ""
 description: ""
-featured: true
+featured: false
 ---
 
 The Nerone family has been severely affected by a fire. Let’s show them our support during this tough time.

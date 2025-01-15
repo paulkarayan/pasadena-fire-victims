@@ -4,7 +4,7 @@ date: 2025-01-14
 tags: ["gofundme"]
 image: ""
 description: ""
-featured: true
+featured: false
 ---
 
 Tonita has endured immense loss after a fire devastated her home. This fundraiser supports her recovery efforts and immediate needs.

@@ -4,7 +4,7 @@ date: 2025-01-14
 tags: ["gofundme"]
 image: ""
 description: ""
-featured: true
+featured: false
 ---
 
 Uncle Steve has lost everything due to the Altadena Fire. Your generosity can provide much-needed relief.

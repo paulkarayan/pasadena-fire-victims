@@ -4,7 +4,7 @@ date: 2025-01-14
 tags: ["gofundme"]
 image: ""
 description: ""
-featured: true
+featured: false
 ---
 
 Kate’s family is grappling with the aftermath of the LA wildfires. Let’s help them recover and rebuild their lives.

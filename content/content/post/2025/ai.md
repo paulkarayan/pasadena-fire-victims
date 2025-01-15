@@ -4,7 +4,7 @@ date: 2025-01-14
 tags: ["gofundme"]
 image: ""
 description: ""
-featured: true
+featured: false
 ---
 
 Ai Buangsuwon is facing the daunting task of rebuilding after the Eaton Fire. Your donation can make a big impact.
